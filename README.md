@@ -52,6 +52,4 @@ An electrocardiogram (ECG) records the electrical activity of the heart over tim
 - **Domain:** Biomedical Signal Processing
 - **Software:** MATLAB
 
-## Disclaimer
 
-This project is for educational purposes only and is not intended for clinical diagnosis or medical decision-making.
